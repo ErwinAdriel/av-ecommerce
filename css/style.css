@@ -1,0 +1,40 @@
+.banner_img {
+  position: relative;
+  background-color: #dde5e8;
+  background-image: url('../img/banner.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-left: 100px;
+  padding-top: 200px;
+  padding-bottom: 200px;
+}
+.banner_part .single_banner_slider .banner_text {
+  display: table;
+  width: 100%;
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+  /* line 7, /Applications/MAMP/htdocs/palash/cl/august 2019/202. Shop/202 shop html/sass/_banner.scss */
+  .banner_part .single_banner_slider .banner_text {
+    height: 650px;
+  }
+}
+
+.card{
+	border: 0px;
+}
+
+.info{
+	padding: 20px;
+}
+
+.titulo{
+	margin-top: 10px;
+}
+.comentarios{
+  padding: 20px;
+}
+.hola{
+  color: red;
+}
