@@ -23,49 +23,32 @@ _4. Presione Enter para crear el clon local._
 ![image](https://github.com/ErwinAdriel/av-ecommerce/assets/95004472/fce58b57-a209-42cf-9881-5a3a25361bd7)
 
 
-## Ejecutando las pruebas ⚙️
+## Vistas del sistema ⚙️
 
-_Explica como ejecutar las pruebas automatizadas para este sistema_
+_INICIO_
 
-### Analice las pruebas end-to-end 🔩
+![image](https://github.com/ErwinAdriel/av-ecommerce/assets/95004472/8795cf44-b3ca-4c31-a12b-1523bb2779b5)
 
-_Explica que verifican estas pruebas y por qué_
+_SECCION SHOP_
 
-```
-Da un ejemplo
-```
+![image](https://github.com/ErwinAdriel/av-ecommerce/assets/95004472/f05fc1c8-6cb6-474a-8f83-984222c487ec)
 
-### Y las pruebas de estilo de codificación ⌨️
+_DETALLE DEL PRODUCTO_
 
-_Explica que verifican estas pruebas y por qué_
+![image](https://github.com/ErwinAdriel/av-ecommerce/assets/95004472/bbdcac0d-4733-4716-8f69-7a15cc452270)
 
-```
-Da un ejemplo
-```
+_COMENTARIOS_
+
+![image](https://github.com/ErwinAdriel/av-ecommerce/assets/95004472/09cc0877-824b-43ad-a84b-0d03b2a95704)
 
 ## Construido con 🛠️
 
 _Menciona las herramientas que utilizaste para crear tu proyecto_
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
-
-## Contribuyendo 🖇️
-
-Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
-
-## Wiki 📖
-
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
-
-## Versionado 📌
-
-Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
+* PHP - Lenguaje de scripting orientado a objetos
+* JSON - Formato ligero de intercambio de datos
+* BOOTSTRAP - Framework CSS, permite crear una interfaz web.
 
 ## Autores ✒️
 
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
-
-* **Andrés Villanueva** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
-* **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
+* **Erwin Adriel Quispe** - *Desarrollo* 
